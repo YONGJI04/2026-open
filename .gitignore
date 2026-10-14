@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+
+7w/README.md
+7w/환경설정.md
+7w/*.pdf
+
+6w/data/*
+!6w/data/공지*.pdf
